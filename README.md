@@ -20,7 +20,7 @@ The smartcontract code was tested using the Remix IDE in conjucntion with unit t
 Source code for the smartcontract can be found in the "contracts" folder: PatientRecord.sol.
 Source code for the front end can be found in the "src" folder.
 
-Website url: https://magnificent-kringle-12777f.netlify.app/
+Website url: https://gentle-cannoli-dc76be.netlify.app/
 Goerli testnet address: 0xc7c140C7c3795206D5fbDD55fa7B30Ce219d4EF2
 Goerli etherscan: https://goerli.etherscan.io/address/0xc7c140C7c3795206D5fbDD55fa7B30Ce219d4EF2#code
 
