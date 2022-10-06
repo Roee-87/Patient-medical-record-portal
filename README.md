@@ -21,7 +21,9 @@ Source code for the smartcontract can be found in the "contracts" folder: Patien
 Source code for the front end can be found in the "src" folder.
 
 Website url: https://gentle-cannoli-dc76be.netlify.app/
+
 Goerli testnet address: 0xc7c140C7c3795206D5fbDD55fa7B30Ce219d4EF2
+
 Goerli etherscan: https://goerli.etherscan.io/address/0xc7c140C7c3795206D5fbDD55fa7B30Ce219d4EF2#code
 
 After deployment, I registered a doctor to the website and added some sample medications that users may choose to interact with.
